@@ -85,3 +85,4 @@ D:\BackEnd\Udemy\Curso Sharp\018- ASP.NET MVC e Entity\SalesWebMvc\SalesWebMvc\o
 D:\BackEnd\Udemy\Curso Sharp\018- ASP.NET MVC e Entity\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Edit.cshtml.g.cs
 D:\BackEnd\Udemy\Curso Sharp\018- ASP.NET MVC e Entity\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Index.cshtml.g.cs
 D:\BackEnd\Udemy\Curso Sharp\018- ASP.NET MVC e Entity\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Index.cshtml.g.cs
+D:\BackEnd\Udemy\Curso Sharp\018- ASP.NET MVC e Entity\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp3.1\Razor\Views\Sellers\Create.cshtml.g.cs
